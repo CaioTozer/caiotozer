@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hey! How are you?
 
-<!--
-**CaioTozer/caiotozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+My Name is Caio Tozer, I have started programming at the end of 2019. I started studying python and then moved on to other technologies, today I work with React, Angular and other technologies of the genre.in addition, I'm Web Front-end. I am currently graduating with a degree in computing at Universidade Federal Rural of Pernambuco.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currentlystuding at Universidade Federal Rural of Pernambuco
+- 🌱 I’m currently learning React, React Native and Angular
+- 👯 I’m looking to collaborate on society, offering my knowledge and cooperating with its advancement
+- 📫 How to reach me: caiotozer592@gmail.com
+- 😄 Pronouns: Caio/Tozer
+
