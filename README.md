@@ -6,7 +6,7 @@ My Name is Caio Tozer, I have started programming at the end of 2019. I started 
 
 
 - 🔭 I’m currently studing at Wyden - UniFBV
-- 🌱 I’m currently learning React, React Native and Angula
+- 🌱 I’m currently learning React, React Native, Angula and Node
 - 👯 I’m looking to collaborate on society, offering my knowledge and cooperating with its advancement
 - 📫 How to reach me: caiotozer592@gmail.com
 - 😄 Pronouns: Caio/Tozer
